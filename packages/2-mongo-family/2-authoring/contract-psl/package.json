@@ -29,6 +29,7 @@
     "pathe": "^2.0.3"
   },
   "devDependencies": {
+    "@internal/family-mongo": "workspace:8.0.0-rc.3",
     "@repo/tsconfig": "workspace:8.0.0-rc.3",
     "@repo/tsdown": "workspace:8.0.0-rc.3",
     "tsdown": "catalog:",
